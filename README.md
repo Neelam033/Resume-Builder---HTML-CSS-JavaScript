@@ -11,8 +11,7 @@ Welcome to our Resume Builder Website! Our website allows users to easily create
 - Dark mode for easy viewing
 - Image upload for profile picture
 
-## Screenshots
-Here are some screenshots of the project to give you an idea of its features and functionality:
+
 
 ###### Home Page
 ![Home Page](https://github.com/ayushsingh186312/resume_builder/blob/master/Home.png)
