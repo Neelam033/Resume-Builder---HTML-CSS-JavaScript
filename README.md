@@ -40,4 +40,4 @@ npm run start
 - [React HTML to PDF](https://www.npmjs.com/package/react-html-to-pdf)
 
 ### Authors
-- [Ayush Singh]()
+- [Neelam Yadav]()
