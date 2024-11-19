@@ -12,22 +12,6 @@ Welcome to our Resume Builder Website! Our website allows users to easily create
 - Image upload for profile picture
 
 
-
-###### Home Page
-![Home Page](https://github.com/ayushsingh186312/resume_builder/blob/master/Home.png)
-
-###### Select Template Page
-![Select Template](https://github.com/ayushsingh186312/resume_builder/blob/master/Template%20Meny.png)
-###### Resume Builder Page
-![Resume Building](https://github.com/ayushsingh186312/resume_builder/blob/master/Sample%20Template.png)
-###### About Page
-![About Page](https://github.com/ayushsingh186312/resume_builder/blob/master/About%20Page.png)
-
-###### Dark Mode
-![Dark Mode](https://github.com/ayushsingh186312/resume_builder/blob/master/Dark%20Mode.png)
-
-
-
 ## Getting Started
 1. Clone this repository to your local machine
 ```bash
